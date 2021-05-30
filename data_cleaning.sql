@@ -1,6 +1,6 @@
 /*
 
-Cleaning Data with SQL 
+Cleaning Data with MySQL 
 
 Data set: Nashville Housing Data
 
