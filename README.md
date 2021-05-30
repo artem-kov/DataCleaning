@@ -15,5 +15,7 @@ This repository holds a MySQL data cleaning project.
       * Remove duplicates
       * Delete unused columns
 
-2. **Data used:** [Nashville Housing Data](https://www.kaggle.com/tmthyjames/nashville-housing-data)
+2. **Data used:** 
+
+    * [Nashville Housing Data](https://www.kaggle.com/tmthyjames/nashville-housing-data)
 
