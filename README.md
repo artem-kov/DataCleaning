@@ -2,9 +2,9 @@
 
 This repository holds a MySQL data cleaning project.
 
-**Project**
+### Project Parts
 
-1. [Data cleaning queries](https://github.com/artem-kov/DataCleaning/blob/main/data_cleaning.sql) 
+1. **[Data cleaning queries](https://github.com/artem-kov/DataCleaning/blob/main/data_cleaning.sql)**
 
     * Process:
       
@@ -15,5 +15,5 @@ This repository holds a MySQL data cleaning project.
       * Remove duplicates
       * Delete unused columns
 
-2. Data used: [Nashville Housing Data](https://www.kaggle.com/tmthyjames/nashville-housing-data)
+2. **Data used: [Nashville Housing Data](https://www.kaggle.com/tmthyjames/nashville-housing-data)**
 
